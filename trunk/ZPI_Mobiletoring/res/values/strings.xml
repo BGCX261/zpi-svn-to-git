@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name" >Mobiletoring
+    </string>
+
+    <string name="hello_world" >Hello world!
+    </string>
+
+    <string name="menu_settings" >Settings
+    </string>
+
+    <string name="title_activity_video" >Mobiletoring
+    </string>
+
+    <string name="help_authors" >Autorzy</string>
+
+    <string name="help_authors_details" >Marcin Koralewski, Marcin Kulisiewicz, Piotr Pękacz, Piotr Sabacińśki
+    </string>
+
+    <string name="help_cameras" >Kamery
+    </string><string name="help_cameras_details" >W aplikacji jest możliwość widoku z dwóch kamer. Do przełączania widoków służą przyciski Kamera 1 i Kamera 2.</string>
+
+    <string name="help_connection" >Połączenie
+    </string><string name="help_connection_details" >Aby zobaczyć podgląd z kamer, należy najpierw skonfigurować połączenie ze strumieniami wideo w zakładce Konfiguracja. Wymaga to podania ich adresów ip oraz portów dla obu kamer.</string>
+
+    <string name="help_notifications" >Powiadomienia
+    </string><string name="help_notifications_details" >Aplikacja umożliwia otrzymywanie powiadomień w postaci wiadomości sms z informacją o wykrytym alarmie. Aby szybko przejść do widoku podglądu z kamer wystarczy kliknąć na otrzymaną wiadomość.</string>
+   
+
+</resources>
